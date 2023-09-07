@@ -5,7 +5,8 @@
 
 	int main()
 	{
-		cout << "Hello World!";
+		cout << "Hello World!\n";
+		cout << "I am happy!\n";
 		return 0;
 	}
 
