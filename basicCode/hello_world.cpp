@@ -7,7 +7,7 @@
 	{
 		cout << "Hello World!" << endl;
 		cout << "I am happy!" << endl;
-		cout << "A new line" << endl;
+		cout << "changed by Tmac14" << endl;
 		return 0;
 	}
 
