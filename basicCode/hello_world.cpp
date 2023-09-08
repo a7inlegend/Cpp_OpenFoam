@@ -5,8 +5,9 @@
 
 	int main()
 	{
-		cout << "Hello World!\n";
-		cout << "I am happy!\n";
+		cout << "Hello World!" << endl;
+		cout << "I am happy!" << endl;
+		cout << "A new line" << endl;
 		return 0;
 	}
 
